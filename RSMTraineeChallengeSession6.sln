@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragonBallAPI", "DragonBallAPI\DragonBallAPI.csproj", "{1A1E788F-A68B-438C-B840-A546BFCC3810}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragonBall.Aplication", "DragonBall.Aplication\DragonBall.Aplication.csproj", "{29A0780D-9004-452E-A4C1-A83F1C153489}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragonBall.Domain", "DragonBall.Domain\DragonBall.Domain.csproj", "{822B5C81-95C8-45A6-842F-654156010213}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragonBall.Infrastructure", "DragonBall.Infrastructure\DragonBall.Infrastructure.csproj", "{5D412B3B-365F-40CC-8693-C5B248836E8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A1E788F-A68B-438C-B840-A546BFCC3810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1E788F-A68B-438C-B840-A546BFCC3810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1E788F-A68B-438C-B840-A546BFCC3810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1E788F-A68B-438C-B840-A546BFCC3810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29A0780D-9004-452E-A4C1-A83F1C153489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29A0780D-9004-452E-A4C1-A83F1C153489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29A0780D-9004-452E-A4C1-A83F1C153489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29A0780D-9004-452E-A4C1-A83F1C153489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{822B5C81-95C8-45A6-842F-654156010213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{822B5C81-95C8-45A6-842F-654156010213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{822B5C81-95C8-45A6-842F-654156010213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{822B5C81-95C8-45A6-842F-654156010213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D412B3B-365F-40CC-8693-C5B248836E8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D412B3B-365F-40CC-8693-C5B248836E8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D412B3B-365F-40CC-8693-C5B248836E8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D412B3B-365F-40CC-8693-C5B248836E8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {289FC735-F66D-4EFE-B15F-582C44EA0658}
+	EndGlobalSection
+EndGlobal
